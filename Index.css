@@ -1,0 +1,7 @@
+<style>
+	/* Base (light mode) styles */
+
+	@media screen and (prefers-color-scheme: dark) {
+		/* Dark mode styles */
+	}
+</style>
