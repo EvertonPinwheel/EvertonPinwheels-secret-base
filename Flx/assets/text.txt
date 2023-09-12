@@ -1,5 +1,0 @@
-var txt = new FlxText();
-txt.text = "I LOVE YOU!";
-txt.size = 32;
-txt.screenCenter();
-add(txt)
